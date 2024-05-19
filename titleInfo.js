@@ -1,5 +1,5 @@
 const info = {
-    title: "ARK Tester",
+    title: "ARK Powershell",
     version: "control /ark 65.67.87",
     author: "Abdulla Rabee",
     bin: {
